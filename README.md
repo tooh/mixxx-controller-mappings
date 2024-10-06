@@ -10,5 +10,5 @@ Mixxx Version 2.4.1 https://www.mixxx.org/ and TheNextBeat SX1 https://thenextbe
 
 ## Install
 
-Place into your mixxx 'controllers' folder (on macOS under [userhome]/Library/Application Support/Mixxx) - restart Mixxx and activate under Preferences/Controller/TheNextBeat SX1
+Place into your Mixxx 'controllers' folder (on macOS under [userhome]/Library/Application Support/Mixxx) - restart Mixxx and activate under Preferences/Controller/TheNextBeat SX1
 
