@@ -2,7 +2,13 @@
 Personal Hardware Controller Mapping of TheNextBeat-SX1 for Mixxx OpenSource DJ Software 
 
 
-A personal mod - not complete, especially LED's
+A personal mod - not complete, especially LED's.
+
+This is a follow-up of the post on the Mixxx forum
+
+https://mixxx.discourse.group/t/help-with-the-next-beat-by-tiesto-controller-mapping/28518/1
+
+
 
 ## Requirements
 
